@@ -1,12 +1,14 @@
-# Python Basics
+# Python Basics Practice
 
-This repository contains basic Python programs created while learning
-Git, GitHub, and Python fundamentals.
+This repository contains simple Python programs created for practice and learning.
 
-## Contents
-- hello.py : First Python program
+## Files Included
+- `hello.py` – Basic print statements and loops
+- `loops.py` – Simple loop example using range
 
-## Purpose
-- Practice Python basics
-- Learn Git and GitHub workflow
-- Build consistency for open source contributions
+## How to Run
+Make sure Python is installed.
+
+```bash
+python hello.py
+python loops.py
